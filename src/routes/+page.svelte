@@ -1,0 +1,1 @@
+<h1 class="text-gray-700 bg-blue-500">Hello Svelte!</h1>
